@@ -226,7 +226,7 @@
    <a href=./wallpapers/lerone-pieters-17Hh5s3r7Ns-unsplash.jpg><img width="350" alt=wallpaper src=./wallpapers/lerone-pieters-17Hh5s3r7Ns-unsplash.jpg></a> <br>
    <a href=./wallpapers/lerone-pieters-G9cGmS4WddU-unsplash.jpg><img width="350" alt=wallpaper src=./wallpapers/lerone-pieters-G9cGmS4WddU-unsplash.jpg></a> <br>
    <a href=./wallpapers/levi-frey-99GTObM6GUU-unsplash.jpg><img width="350" alt=wallpaper src=./wallpapers/levi-frey-99GTObM6GUU-unsplash.jpg></a> <br>
-   <a href=./wallpapers/lhu-shi-hui-c57nA2bSy1Y-unsplash (1).jpg><img width="350" alt=wallpaper src=./wallpapers/lhu-shi-hui-c57nA2bSy1Y-unsplash (1).jpg></a> <br>
+   <a href=./wallpapers/lhu-shi-hui-c57nA2bSy1Y-unsplash-test-1.jpg><img width="350" alt=wallpaper src=./wallpapers/lhu-shi-hui-c57nA2bSy1Y-unsplash-test-1.jpg></a> <br>
    <a href=./wallpapers/liam-spradlin-fll8iFJJE1U-unsplash.jpg><img width="350" alt=wallpaper src=./wallpapers/liam-spradlin-fll8iFJJE1U-unsplash.jpg></a> <br>
    <a href=./wallpapers/liza-rusalskaya-D0ad5ow9isg-unsplash.jpg><img width="350" alt=wallpaper src=./wallpapers/liza-rusalskaya-D0ad5ow9isg-unsplash.jpg></a> <br>
    <a href=./wallpapers/logan-weaver-jK7NVUgWgp4-unsplash.jpg><img width="350" alt=wallpaper src=./wallpapers/logan-weaver-jK7NVUgWgp4-unsplash.jpg></a> <br>
@@ -370,7 +370,7 @@
    <a href=./wallpapers/teagan-methorst-aeB3YTof51w-unsplash.jpg><img width="350" alt=wallpaper src=./wallpapers/teagan-methorst-aeB3YTof51w-unsplash.jpg></a> <br>
    <a href=./wallpapers/teslariu-mihai-USfYbTeW4cw-unsplash.jpg><img width="350" alt=wallpaper src=./wallpapers/teslariu-mihai-USfYbTeW4cw-unsplash.jpg></a> <br>
    <a href=./wallpapers/thais-ribeiro-gikvRQYXbFU-unsplash.jpg><img width="350" alt=wallpaper src=./wallpapers/thais-ribeiro-gikvRQYXbFU-unsplash.jpg></a> <br>
-   <a href=./wallpapers/thiago-gomes-K0YuYMAwCTQ-unsplash (1).jpg><img width="350" alt=wallpaper src=./wallpapers/thiago-gomes-K0YuYMAwCTQ-unsplash (1).jpg></a> <br>
+   <a href=./wallpapers/thiago-gomes-K0YuYMAwCTQ-unsplash-test-1.jpg><img width="350" alt=wallpaper src=./wallpapers/thiago-gomes-K0YuYMAwCTQ-unsplash-test-1.jpg></a> <br>
    <a href=./wallpapers/thomas-chizzali-ggoF2agL6U0-unsplash.jpg><img width="350" alt=wallpaper src=./wallpapers/thomas-chizzali-ggoF2agL6U0-unsplash.jpg></a> <br>
    <a href=./wallpapers/thomas-reaubourg-61DESW6zwI4-unsplash.jpg><img width="350" alt=wallpaper src=./wallpapers/thomas-reaubourg-61DESW6zwI4-unsplash.jpg></a> <br>
    <a href=./wallpapers/toa-heftiba-jNYFmC5ZjoI-unsplash.jpg><img width="350" alt=wallpaper src=./wallpapers/toa-heftiba-jNYFmC5ZjoI-unsplash.jpg></a> <br>
