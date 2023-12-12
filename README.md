@@ -1,22 +1,37 @@
+
 <h1 align="center">Wallpapers</h1>
 
+
 <div align="center">
-   <a href=./wawidth="350"llpapers/0074_room-bed-chill-sunlight.png><img width="350" alt=wallpaper src=./wallpapers/0074_room-bed-chill-sunlight.png></a> <br>
+   <a href=./wallpapers/0074_room-bed-chill-sunlight.png>
+      <img width="350" alt=wallpaper src=./wallpapers/0074_room-bed-chill-sunlight.png>
+   </a> 
+   
+   <br>
+   
    <a href=./wallpapers/0215_girl-hair-mask-open.jpg><img width="350" alt=wallpaper src=./wallpapers/0215_girl-hair-mask-open.jpg></a> <br>
+   
    <a href=./wallpapers/0252_abandonned-sign-purple-sky.png><img width="350" alt=wallpaper src=./wallpapers/0252_abandonned-sign-purple-sky.png></a> <br>
+   
    <a href=./wallpapers/0327_anime-girl-hand-openmouth.jpg><img width="350" alt=wallpaper src=./wallpapers/0327_anime-girl-hand-openmouth.jpg></a> <br>
+   
    <a href=./wallpapers/1041858.jpg><img width="350" alt=wallpaper src=./wallpapers/1041858.jpg></a> <br>
+   
    <a href=./wallpapers/1a849661af.jpg><img width="350" alt=wallpaper src=./wallpapers/1a849661af.jpg></a> <br>
+   
    <a href=./wallpapers/625726.jpg><img width="350" alt=wallpaper src=./wallpapers/625726.jpg></a> <br>
+   
    <a href=./wallpapers/693779.jpg><img width="350" alt=wallpaper src=./wallpapers/693779.jpg></a> <br>
+   
    <a href=./wallpapers/824233.jpg><img width="350" alt=wallpaper src=./wallpapers/824233.jpg></a> <br>
+   
    <a href=./wallpapers/900238.jpg><img width="350" alt=wallpaper src=./wallpapers/900238.jpg></a> <br>
    <a href=./wallpapers/911928.jpg><img width="350" alt=wallpaper src=./wallpapers/911928.jpg></a> <br>
    <a href=./wallpapers/9609274da28fca0b059b7b806ca1f57a.jpg><img width="350" alt=wallpaper src=./wallpapers/9609274da28fca0b059b7b806ca1f57a.jpg></a> <br>
    <a href=./wallpapers/AtM7BuC.png><img width="350" alt=wallpaper src=./wallpapers/AtM7BuC.png></a> <br>
    <a href=./wallpapers/DUNE-DESKTOP-WALLPAPER-4K.png><img width="350" alt=wallpaper src=./wallpapers/DUNE-DESKTOP-WALLPAPER-4K.png></a> <br>
    <a href=./wallpapers/FN7N6qdWYAIuMWn.jfif><img width="350" alt=wallpaper src=./wallpapers/FN7N6qdWYAIuMWn.jfif></a> <br>
-   <a href=./wallpapers/The Frontier.jpg><img width="350" alt=wallpaper src=./wallpapers/The Frontier.jpg></a> <br>
+   <a href="./wallpapers/The-Frontier.jpg"><img width="350" alt=wallpaper src=./wallpapers/The-Frontier.jpg></a> <br>
    <a href=./wallpapers/a-rodriguez-herrera-1103566-unsplash.jpg><img width="350" alt=wallpaper src=./wallpapers/a-rodriguez-herrera-1103566-unsplash.jpg></a> <br>
    <a href=./wallpapers/aashish-r-gautam-z_uPwxVABsk-unsplash.jpg><img width="350" alt=wallpaper src=./wallpapers/aashish-r-gautam-z_uPwxVABsk-unsplash.jpg></a> <br>
    <a href=./wallpapers/adrianna-geo-1rBg5YSi00c-unsplash.jpg><img width="350" alt=wallpaper src=./wallpapers/adrianna-geo-1rBg5YSi00c-unsplash.jpg></a> <br>
